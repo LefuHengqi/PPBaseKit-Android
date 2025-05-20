@@ -1,0 +1,90 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.lefu.ppcalculatekit",
+    "module": "ppcalculatekit",
+    "version": "4.2.0.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.21"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ppcalculatekit-4.2.0.2.aar",
+          "url": "ppcalculatekit-4.2.0.2.aar",
+          "size": 660023,
+          "sha512": "e06def8932c354736513e6330d636588dac8b4321029e2fa6f6798d81bc2c1d8e64f0a3b828005ad6ca30d264d22c0b4eac2ac5e3fc2300a15f31573bf984347",
+          "sha256": "a04aa2015c2e292b2b09505b71b6d15830a3fcc16b8b8f0213691fe76a8bc006",
+          "sha1": "d228834df024820667b54e9c4b022fe3d175aac7",
+          "md5": "1f605ff6488ff5cb9a7fefa50487c834"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.7.3"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-android",
+          "version": {
+            "requires": "1.7.3"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.21"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ppcalculatekit-4.2.0.2.aar",
+          "url": "ppcalculatekit-4.2.0.2.aar",
+          "size": 660023,
+          "sha512": "e06def8932c354736513e6330d636588dac8b4321029e2fa6f6798d81bc2c1d8e64f0a3b828005ad6ca30d264d22c0b4eac2ac5e3fc2300a15f31573bf984347",
+          "sha256": "a04aa2015c2e292b2b09505b71b6d15830a3fcc16b8b8f0213691fe76a8bc006",
+          "sha1": "d228834df024820667b54e9c4b022fe3d175aac7",
+          "md5": "1f605ff6488ff5cb9a7fefa50487c834"
+        }
+      ]
+    }
+  ]
+}
