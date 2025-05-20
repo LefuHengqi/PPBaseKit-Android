@@ -1,0 +1,90 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.lefu.ppbluetoothkit",
+    "module": "ppbluetoothkit",
+    "version": "4.2.0.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.21"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ppbluetoothkit-4.2.0.3.aar",
+          "url": "ppbluetoothkit-4.2.0.3.aar",
+          "size": 662013,
+          "sha512": "9a526b1a28201c680ba620f4a1ab9591a1e5609bc549d79d48c492b30c93eee52e9cececeeb22d552ecd31e18d9963c1a66e72d9db1529372927927750c47bb2",
+          "sha256": "2e394749d1f270ede899959e8caad89a7b092d00c0685b8cb2d3524ec946f3e3",
+          "sha1": "7a29975784f5f26a3f4cb3a1df1a92bf82294269",
+          "md5": "d39dcfde3c164d42cc13be30fb3379d4"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.7.3"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-android",
+          "version": {
+            "requires": "1.7.3"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.21"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ppbluetoothkit-4.2.0.3.aar",
+          "url": "ppbluetoothkit-4.2.0.3.aar",
+          "size": 662013,
+          "sha512": "9a526b1a28201c680ba620f4a1ab9591a1e5609bc549d79d48c492b30c93eee52e9cececeeb22d552ecd31e18d9963c1a66e72d9db1529372927927750c47bb2",
+          "sha256": "2e394749d1f270ede899959e8caad89a7b092d00c0685b8cb2d3524ec946f3e3",
+          "sha1": "7a29975784f5f26a3f4cb3a1df1a92bf82294269",
+          "md5": "d39dcfde3c164d42cc13be30fb3379d4"
+        }
+      ]
+    }
+  ]
+}
