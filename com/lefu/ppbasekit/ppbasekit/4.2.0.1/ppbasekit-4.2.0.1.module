@@ -1,0 +1,90 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.lefu.ppbasekit",
+    "module": "ppbasekit",
+    "version": "4.2.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.21"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ppbasekit-4.2.0.1.aar",
+          "url": "ppbasekit-4.2.0.1.aar",
+          "size": 239088,
+          "sha512": "ead66537f8ea90834132d66eaeea53ee8eaecdf0b737b5e658047eee0f01b04b1a2d6dae435151a6c76f972de5d17f7cfca277aaa8fdcb6e61c68a2d9d6d9c11",
+          "sha256": "6d22076846464821c2c37c3eadd7cabd137562ba15c5ccec7d8627483b3324ba",
+          "sha1": "83cae908de34394d93ac821d7ec51a1e9366ff16",
+          "md5": "1a56872273c0a6d93727e6330beb53a4"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.3.8"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-android",
+          "version": {
+            "requires": "1.3.8"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.21"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ppbasekit-4.2.0.1.aar",
+          "url": "ppbasekit-4.2.0.1.aar",
+          "size": 239088,
+          "sha512": "ead66537f8ea90834132d66eaeea53ee8eaecdf0b737b5e658047eee0f01b04b1a2d6dae435151a6c76f972de5d17f7cfca277aaa8fdcb6e61c68a2d9d6d9c11",
+          "sha256": "6d22076846464821c2c37c3eadd7cabd137562ba15c5ccec7d8627483b3324ba",
+          "sha1": "83cae908de34394d93ac821d7ec51a1e9366ff16",
+          "md5": "1a56872273c0a6d93727e6330beb53a4"
+        }
+      ]
+    }
+  ]
+}
