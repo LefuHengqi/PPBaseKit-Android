@@ -24,13 +24,6 @@
       },
       "dependencies": [
         {
-          "group": "PPBluetoothKitDemo.ppsdkkit.lefulib",
-          "module": "bluetoothkit",
-          "version": {
-            "requires": "unspecified"
-          }
-        },
-        {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
@@ -43,10 +36,10 @@
           "name": "ppbluetoothkit-4.2.0.aar",
           "url": "ppbluetoothkit-4.2.0.aar",
           "size": 662013,
-          "sha512": "65d8e3b36db84e6800dff0cff29af88bc6b855b0a426d199a4c0438f4018ad967f650c0daa5eebe5f7c3d062cff9875cf9c1a998002de12c49da76db6bf2ee59",
-          "sha256": "9c5ce05c91b5a9298323ea4720a8fb791f287d037e1f862d077aad1532649e17",
-          "sha1": "c144ad16b7e71e8099ff533fcbab385fc3e5bb4b",
-          "md5": "648a8b48683358678482da3b0987e017"
+          "sha512": "b5f431511df555cf30ef350f60a5c94400497d418c613e2e4e8d7bdfc07bc98f3787c0f331f64cf7d8250e3a7b067841a1eef7fb2837c9d5c610ab074b89bc52",
+          "sha256": "ffa1b68406dbd74a7eb0ea36ee41cf645116ead5840e27756e913b8639b9d05a",
+          "sha1": "c01c46ed1d5d1f74ed6257701c239fb72b71c10f",
+          "md5": "e5ca46ad3dad0a69417ff6b90ee24af4"
         }
       ]
     },
@@ -74,13 +67,6 @@
           }
         },
         {
-          "group": "PPBluetoothKitDemo.ppsdkkit.lefulib",
-          "module": "bluetoothkit",
-          "version": {
-            "requires": "unspecified"
-          }
-        },
-        {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
@@ -93,10 +79,10 @@
           "name": "ppbluetoothkit-4.2.0.aar",
           "url": "ppbluetoothkit-4.2.0.aar",
           "size": 662013,
-          "sha512": "65d8e3b36db84e6800dff0cff29af88bc6b855b0a426d199a4c0438f4018ad967f650c0daa5eebe5f7c3d062cff9875cf9c1a998002de12c49da76db6bf2ee59",
-          "sha256": "9c5ce05c91b5a9298323ea4720a8fb791f287d037e1f862d077aad1532649e17",
-          "sha1": "c144ad16b7e71e8099ff533fcbab385fc3e5bb4b",
-          "md5": "648a8b48683358678482da3b0987e017"
+          "sha512": "b5f431511df555cf30ef350f60a5c94400497d418c613e2e4e8d7bdfc07bc98f3787c0f331f64cf7d8250e3a7b067841a1eef7fb2837c9d5c610ab074b89bc52",
+          "sha256": "ffa1b68406dbd74a7eb0ea36ee41cf645116ead5840e27756e913b8639b9d05a",
+          "sha1": "c01c46ed1d5d1f74ed6257701c239fb72b71c10f",
+          "md5": "e5ca46ad3dad0a69417ff6b90ee24af4"
         }
       ]
     }
