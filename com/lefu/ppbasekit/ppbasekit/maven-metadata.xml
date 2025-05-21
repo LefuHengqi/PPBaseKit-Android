@@ -3,7 +3,7 @@
   <groupId>com.lefu.ppbasekit</groupId>
   <artifactId>ppbasekit</artifactId>
   <versioning>
-    <release>4.1.8.1</release>
+    <release>4.2.1</release>
     <versions>
       <version>4.0.1.5</version>
       <version>4.0.1.6</version>
@@ -31,7 +31,8 @@
       <version>4.1.7.2</version>
       <version>4.1.8</version>
       <version>4.1.8.1</version>
+      <version>4.2.1</version>
     </versions>
-    <lastUpdated>20250429060418</lastUpdated>
+    <lastUpdated>20250521002814</lastUpdated>
   </versioning>
 </metadata>
