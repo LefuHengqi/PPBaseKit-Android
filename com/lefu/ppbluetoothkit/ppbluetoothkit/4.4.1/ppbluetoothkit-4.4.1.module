@@ -34,11 +34,11 @@
         {
           "name": "ppbluetoothkit-4.4.1.aar",
           "url": "ppbluetoothkit-4.4.1.aar",
-          "size": 915086,
-          "sha512": "bb73755b026f56630c00c0e3b9484069d70e000db032be2bbdb0ae87c74e45ea2db6662ce1c3b5f0575aebdfb7490ff9ce1fdf5edce84fa1acaf84b819c7acbc",
-          "sha256": "d0af61cd55ac4761d8fda9de2fcc23a1aff08178659a6d29200fdff6f832f961",
-          "sha1": "773cac00e9301fa41ca046a5fb53144ed09d5b61",
-          "md5": "922c625270195c2083f4910b9b8a16ac"
+          "size": 915611,
+          "sha512": "a3e89069eae861175b105d7e8997849e60054fd41fa34181094c8834529503105866408b8f54395f995f027b6fab852435e7c78f0e69ae004cee09e5890675f5",
+          "sha256": "22955963a7f6c2977bcd1522fa94476d45cbf34b472dffc3f161d229ee3b84a7",
+          "sha1": "dd37f169b6a602db7fc71d312c853a31c410f66a",
+          "md5": "c318717df2e73c6b832d356cdfd64655"
         }
       ]
     },
@@ -62,11 +62,11 @@
         {
           "name": "ppbluetoothkit-4.4.1.aar",
           "url": "ppbluetoothkit-4.4.1.aar",
-          "size": 915086,
-          "sha512": "bb73755b026f56630c00c0e3b9484069d70e000db032be2bbdb0ae87c74e45ea2db6662ce1c3b5f0575aebdfb7490ff9ce1fdf5edce84fa1acaf84b819c7acbc",
-          "sha256": "d0af61cd55ac4761d8fda9de2fcc23a1aff08178659a6d29200fdff6f832f961",
-          "sha1": "773cac00e9301fa41ca046a5fb53144ed09d5b61",
-          "md5": "922c625270195c2083f4910b9b8a16ac"
+          "size": 915611,
+          "sha512": "a3e89069eae861175b105d7e8997849e60054fd41fa34181094c8834529503105866408b8f54395f995f027b6fab852435e7c78f0e69ae004cee09e5890675f5",
+          "sha256": "22955963a7f6c2977bcd1522fa94476d45cbf34b472dffc3f161d229ee3b84a7",
+          "sha1": "dd37f169b6a602db7fc71d312c853a31c410f66a",
+          "md5": "c318717df2e73c6b832d356cdfd64655"
         }
       ]
     },
@@ -84,11 +84,11 @@
         {
           "name": "ppbluetoothkit-4.4.1-sources.jar",
           "url": "ppbluetoothkit-4.4.1-sources.jar",
-          "size": 566689,
-          "sha512": "ce8234979fad8ceb76f73583212845c62d379110d5882219557c3af10c964dae9751b1254631f01ad2f5560043872d90f66cba86bed7ee62b2e59bf044ec8f9a",
-          "sha256": "a92576160642552a82af19aa062ae12be23b8c35ded1c8b3dfa20cc20d9768d7",
-          "sha1": "b51a37d19713482fbc3bf7eca2e23be7d9313f0e",
-          "md5": "026d6904e53127626965e076d975632a"
+          "size": 566621,
+          "sha512": "8884d765219b5908c562a9e4549cac833cc6066b63e2d5f5af72c55092e7091819d955523d68f9c82e89f5fa1442f55d2c9be45746229a1d2039fce222cc3705",
+          "sha256": "976e390c6243206f0dc5052e9ba2789b139fc4560c8b19d2c00af704a77ae591",
+          "sha1": "039f735c26b48f752f923ce8e0724fea4f842e66",
+          "md5": "499b2982f3fdb8a50608111f942b6880"
         }
       ]
     }

@@ -34,11 +34,11 @@
         {
           "name": "ppcalculatekit-4.4.1.aar",
           "url": "ppcalculatekit-4.4.1.aar",
-          "size": 675662,
-          "sha512": "c1663f119c596a75f1cd0b53401ba5e0fcaadf3ec03dfa9dbdf78a23ca11eb6934b8ced09ad03b2d2ca2b38aad02afb490ee05b60543356c401d8e2258d23274",
-          "sha256": "edfddddc6264b010f3862e38dc2982e67e632170b67d67014733f1ec541c7fc4",
-          "sha1": "abcc717563a3a5f9531b7a1f87079e0f508c5d5c",
-          "md5": "b0be84999f80f8be14076d013cde4ff1"
+          "size": 674998,
+          "sha512": "b15eb6b02965fc4fd48fb9c25882c29d3481dc9747d5c4bb6382581e73cda6fb3dfdcd4010d54d5dc44de051bbb51f6d1e74d50bbcf61290ef1ab4cc6869e5df",
+          "sha256": "b5ed3c0a8273f3405dc15aff8e50f8ed140838aab181308bc8d4745819805df3",
+          "sha1": "95559d29d7f59f8c44fc6a1dd2ce84b5a1ea3ed9",
+          "md5": "fbf63ad0774ee45a394201ee646398d8"
         }
       ]
     },
@@ -62,11 +62,11 @@
         {
           "name": "ppcalculatekit-4.4.1.aar",
           "url": "ppcalculatekit-4.4.1.aar",
-          "size": 675662,
-          "sha512": "c1663f119c596a75f1cd0b53401ba5e0fcaadf3ec03dfa9dbdf78a23ca11eb6934b8ced09ad03b2d2ca2b38aad02afb490ee05b60543356c401d8e2258d23274",
-          "sha256": "edfddddc6264b010f3862e38dc2982e67e632170b67d67014733f1ec541c7fc4",
-          "sha1": "abcc717563a3a5f9531b7a1f87079e0f508c5d5c",
-          "md5": "b0be84999f80f8be14076d013cde4ff1"
+          "size": 674998,
+          "sha512": "b15eb6b02965fc4fd48fb9c25882c29d3481dc9747d5c4bb6382581e73cda6fb3dfdcd4010d54d5dc44de051bbb51f6d1e74d50bbcf61290ef1ab4cc6869e5df",
+          "sha256": "b5ed3c0a8273f3405dc15aff8e50f8ed140838aab181308bc8d4745819805df3",
+          "sha1": "95559d29d7f59f8c44fc6a1dd2ce84b5a1ea3ed9",
+          "md5": "fbf63ad0774ee45a394201ee646398d8"
         }
       ]
     },
