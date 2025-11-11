@@ -1,0 +1,96 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.lefu.ppbasekit",
+    "module": "ppbasekit",
+    "version": "4.4.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.22"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ppbasekit-4.4.1.aar",
+          "url": "ppbasekit-4.4.1.aar",
+          "size": 248893,
+          "sha512": "3515f60128683625486a5c4131a168d5dbc4d788e54bf9ea45acb47cdf4af1cdde538b9fc828996a0cb0dcfca96410e8913f8b788842e1cafb18f4eb2249f44b",
+          "sha256": "8820229ee1168cb1d1b5ededfae07957d0704af291be5ba26afe1edac05b3ff3",
+          "sha1": "60526c36e06b8e8a46578195f79d1e5dea952cc5",
+          "md5": "3dad0d7943833b5f3e0c9af3ced6c78c"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.22"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ppbasekit-4.4.1.aar",
+          "url": "ppbasekit-4.4.1.aar",
+          "size": 248893,
+          "sha512": "3515f60128683625486a5c4131a168d5dbc4d788e54bf9ea45acb47cdf4af1cdde538b9fc828996a0cb0dcfca96410e8913f8b788842e1cafb18f4eb2249f44b",
+          "sha256": "8820229ee1168cb1d1b5ededfae07957d0704af291be5ba26afe1edac05b3ff3",
+          "sha1": "60526c36e06b8e8a46578195f79d1e5dea952cc5",
+          "md5": "3dad0d7943833b5f3e0c9af3ced6c78c"
+        }
+      ]
+    },
+    {
+      "name": "releaseSourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "files": [
+        {
+          "name": "ppbasekit-4.4.1-sources.jar",
+          "url": "ppbasekit-4.4.1-sources.jar",
+          "size": 38445,
+          "sha512": "d738479e591008f016ab2358fb39a7549863a7c4cbf84063e88abc8c4cce4b60636c2c3862bf48b04daf2b595b44a7edd5a4d4b833e67acc0b86d633a101b685",
+          "sha256": "5fa698522d933784d1f1cb63c15f6efca468e3b24708814663407424d2ac659c",
+          "sha1": "6b40f44d51857e8c28b99d8dc0457302d620b2a2",
+          "md5": "d2c3308bbc0ae99375e6d8830796cd6b"
+        }
+      ]
+    }
+  ]
+}
