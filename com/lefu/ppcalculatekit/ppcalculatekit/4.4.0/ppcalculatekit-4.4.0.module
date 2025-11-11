@@ -1,0 +1,208 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.lefu.ppcalculatekit",
+    "module": "ppcalculatekit",
+    "version": "4.4.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "dependencies": [
+        {
+          "group": "PPBluetoothKitDemo2.ppsdkkit.lefulib",
+          "module": "bh1BodyComposition",
+          "version": {
+            "requires": "unspecified"
+          }
+        },
+        {
+          "group": "PPBluetoothKitDemo2.ppsdkkit.lefulib",
+          "module": "bh2BodyComposition",
+          "version": {
+            "requires": "unspecified"
+          }
+        },
+        {
+          "group": "PPBluetoothKitDemo2.ppsdkkit.lefulib",
+          "module": "bh3BodyComposition",
+          "version": {
+            "requires": "unspecified"
+          }
+        },
+        {
+          "group": "PPBluetoothKitDemo2.ppsdkkit.lefulib",
+          "module": "bh4BodyComposition",
+          "version": {
+            "requires": "unspecified"
+          }
+        },
+        {
+          "group": "PPBluetoothKitDemo2.ppsdkkit.lefulib",
+          "module": "bh5BodyComposition",
+          "version": {
+            "requires": "unspecified"
+          }
+        },
+        {
+          "group": "PPBluetoothKitDemo2.ppsdkkit.lefulib",
+          "module": "bhBodyComposition",
+          "version": {
+            "requires": "unspecified"
+          }
+        },
+        {
+          "group": "PPBluetoothKitDemo2.ppsdkkit.lefulib",
+          "module": "body_sl",
+          "version": {
+            "requires": "unspecified"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.22"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ppcalculatekit-4.4.0.aar",
+          "url": "ppcalculatekit-4.4.0.aar",
+          "size": 610662,
+          "sha512": "f44a04aefb9dd5ab8e526a47a3544215dd0367eeafb2d031b7618687dcb8f593e55160af971dd86e72e4999b326c2840a7353f422a0a4062f220b634e20e98a2",
+          "sha256": "6afe8b5763674ec9d7df1427cccd960604dde21c212ef984af5a355d326a0d8a",
+          "sha1": "f9d2dadfa2f9d08ffbd227c3267a8e28aa758510",
+          "md5": "f917a9fe1ab1c7dc80c0902e69fc63fb"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.7.3"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-android",
+          "version": {
+            "requires": "1.7.3"
+          }
+        },
+        {
+          "group": "PPBluetoothKitDemo2.ppsdkkit.lefulib",
+          "module": "bh1BodyComposition",
+          "version": {
+            "requires": "unspecified"
+          }
+        },
+        {
+          "group": "PPBluetoothKitDemo2.ppsdkkit.lefulib",
+          "module": "bh2BodyComposition",
+          "version": {
+            "requires": "unspecified"
+          }
+        },
+        {
+          "group": "PPBluetoothKitDemo2.ppsdkkit.lefulib",
+          "module": "bh3BodyComposition",
+          "version": {
+            "requires": "unspecified"
+          }
+        },
+        {
+          "group": "PPBluetoothKitDemo2.ppsdkkit.lefulib",
+          "module": "bh4BodyComposition",
+          "version": {
+            "requires": "unspecified"
+          }
+        },
+        {
+          "group": "PPBluetoothKitDemo2.ppsdkkit.lefulib",
+          "module": "bh5BodyComposition",
+          "version": {
+            "requires": "unspecified"
+          }
+        },
+        {
+          "group": "PPBluetoothKitDemo2.ppsdkkit.lefulib",
+          "module": "bhBodyComposition",
+          "version": {
+            "requires": "unspecified"
+          }
+        },
+        {
+          "group": "PPBluetoothKitDemo2.ppsdkkit.lefulib",
+          "module": "body_sl",
+          "version": {
+            "requires": "unspecified"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.22"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ppcalculatekit-4.4.0.aar",
+          "url": "ppcalculatekit-4.4.0.aar",
+          "size": 610662,
+          "sha512": "f44a04aefb9dd5ab8e526a47a3544215dd0367eeafb2d031b7618687dcb8f593e55160af971dd86e72e4999b326c2840a7353f422a0a4062f220b634e20e98a2",
+          "sha256": "6afe8b5763674ec9d7df1427cccd960604dde21c212ef984af5a355d326a0d8a",
+          "sha1": "f9d2dadfa2f9d08ffbd227c3267a8e28aa758510",
+          "md5": "f917a9fe1ab1c7dc80c0902e69fc63fb"
+        }
+      ]
+    },
+    {
+      "name": "releaseSourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "files": [
+        {
+          "name": "ppcalculatekit-4.4.0-sources.jar",
+          "url": "ppcalculatekit-4.4.0-sources.jar",
+          "size": 105625,
+          "sha512": "c4f2d37630d895aeedc59cceb55d8cbaa43747b90b799e2211f3b220eb675e6575bf36e47e3403c149cdfb8140d922187302944c1a9a895d817c01f947e1545d",
+          "sha256": "9c9f4496796f4b2246c6dabe0e368e7ef795da98f1393c9bdfae899914313923",
+          "sha1": "16fbd03ba9726723a66e8edaed0e9082d5bdad80",
+          "md5": "663da3b0731f2a916557affaed420304"
+        }
+      ]
+    }
+  ]
+}
