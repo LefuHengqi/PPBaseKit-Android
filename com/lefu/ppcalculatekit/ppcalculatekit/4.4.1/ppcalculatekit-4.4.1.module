@@ -1,0 +1,96 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.lefu.ppcalculatekit",
+    "module": "ppcalculatekit",
+    "version": "4.4.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.22"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ppcalculatekit-4.4.1.aar",
+          "url": "ppcalculatekit-4.4.1.aar",
+          "size": 674998,
+          "sha512": "b15eb6b02965fc4fd48fb9c25882c29d3481dc9747d5c4bb6382581e73cda6fb3dfdcd4010d54d5dc44de051bbb51f6d1e74d50bbcf61290ef1ab4cc6869e5df",
+          "sha256": "b5ed3c0a8273f3405dc15aff8e50f8ed140838aab181308bc8d4745819805df3",
+          "sha1": "95559d29d7f59f8c44fc6a1dd2ce84b5a1ea3ed9",
+          "md5": "fbf63ad0774ee45a394201ee646398d8"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.22"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ppcalculatekit-4.4.1.aar",
+          "url": "ppcalculatekit-4.4.1.aar",
+          "size": 674998,
+          "sha512": "b15eb6b02965fc4fd48fb9c25882c29d3481dc9747d5c4bb6382581e73cda6fb3dfdcd4010d54d5dc44de051bbb51f6d1e74d50bbcf61290ef1ab4cc6869e5df",
+          "sha256": "b5ed3c0a8273f3405dc15aff8e50f8ed140838aab181308bc8d4745819805df3",
+          "sha1": "95559d29d7f59f8c44fc6a1dd2ce84b5a1ea3ed9",
+          "md5": "fbf63ad0774ee45a394201ee646398d8"
+        }
+      ]
+    },
+    {
+      "name": "releaseSourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "files": [
+        {
+          "name": "ppcalculatekit-4.4.1-sources.jar",
+          "url": "ppcalculatekit-4.4.1-sources.jar",
+          "size": 105625,
+          "sha512": "c4f2d37630d895aeedc59cceb55d8cbaa43747b90b799e2211f3b220eb675e6575bf36e47e3403c149cdfb8140d922187302944c1a9a895d817c01f947e1545d",
+          "sha256": "9c9f4496796f4b2246c6dabe0e368e7ef795da98f1393c9bdfae899914313923",
+          "sha1": "16fbd03ba9726723a66e8edaed0e9082d5bdad80",
+          "md5": "663da3b0731f2a916557affaed420304"
+        }
+      ]
+    }
+  ]
+}
