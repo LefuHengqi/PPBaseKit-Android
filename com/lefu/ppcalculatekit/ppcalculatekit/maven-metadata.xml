@@ -3,8 +3,8 @@
   <groupId>com.lefu.ppcalculatekit</groupId>
   <artifactId>ppcalculatekit</artifactId>
   <versioning>
-    <latest>4.6.17</latest>
-    <release>4.6.17</release>
+    <latest>4.6.19</latest>
+    <release>4.6.19</release>
     <versions>
       <version>4.0.1.6-SNAPSHOT</version>
       <version>4.0.1.6</version>
@@ -59,7 +59,8 @@
       <version>4.6.15</version>
       <version>4.6.16</version>
       <version>4.6.17</version>
+      <version>4.6.19</version>
     </versions>
-    <lastUpdated>20260513064129</lastUpdated>
+    <lastUpdated>20260623023955</lastUpdated>
   </versioning>
 </metadata>
